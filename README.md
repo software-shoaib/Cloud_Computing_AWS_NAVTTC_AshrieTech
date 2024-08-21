@@ -1,1 +1,1 @@
-# Cloud_Computing_NAVTTC_AshrieTech
+# Cloud_Computing_AWS_NAVTTC_AshrieTech
